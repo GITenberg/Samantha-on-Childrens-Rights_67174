@@ -1,5 +1,8 @@
 _repo: Samantha-on-Childrens-Rights_67174
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67174-h/images/cover.jpg
 creator:
   author:
     agent_name: Holley, Marietta
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: https://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67174#Samantha-on-Childrens-Rights
 gutenberg_issued: '2022-01-16'
 identifiers:
   gutenberg: '67174'
